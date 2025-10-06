@@ -1,6 +1,6 @@
-# 🍕 Restaurant Food Order System (PHP)
+# 🍕 Online Food Order System (PHP)
 
-Welcome to the **Restaurant Food Order System** repository!  
+Welcome to the **Online Food Order System** repository!  
 A web-based platform designed to enable customers to place takeaway orders, help restaurant managers oversee operations, and allow admins to efficiently manage all aspects of the restaurant system—built with PHP.
 
 ---
